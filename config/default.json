@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://simisoluwa:root@cluster0-wzdei.mongodb.net/contact-keeper?retryWrites=true&w=majority",
+    "jwtsecret":"secret"
+}
